@@ -1,0 +1,844 @@
+year,state,topic,response,value
+2015,Connecticut,Cigarette Use (Youth),Current,5.6
+2015,Connecticut,Cigarette Use (Youth),Ever,21.8
+2015,Connecticut,Cigarette Use (Youth),Frequent,1.8
+2015,Connecticut,Smokeless Tobacco Use (Youth),Current,2.8
+2015,Connecticut,Smokeless Tobacco Use (Youth),Ever,6.7
+2015,Connecticut,Smokeless Tobacco Use (Youth),Frequent,0.9
+2015,Georgia,Cigarette Use (Youth),Current,10.8
+2015,Georgia,Cigarette Use (Youth),Ever,34.3
+2015,Georgia,Cigarette Use (Youth),Frequent,3.1
+2015,Georgia,Smokeless Tobacco Use (Youth),Current,8.2
+2015,Georgia,Smokeless Tobacco Use (Youth),Ever,15.8
+2015,Georgia,Smokeless Tobacco Use (Youth),Frequent,3.8
+2015,Hawaii,Cigarette Use (Youth),Current,7.4
+2015,Hawaii,Cigarette Use (Youth),Ever,28.3
+2015,Hawaii,Cigarette Use (Youth),Frequent,2
+2015,Hawaii,Smokeless Tobacco Use (Youth),Current,3.1
+2015,Hawaii,Smokeless Tobacco Use (Youth),Ever,6
+2015,Hawaii,Smokeless Tobacco Use (Youth),Frequent,0.7
+2015,Illinois,Cigarette Use (Youth),Current,9.9
+2015,Illinois,Cigarette Use (Youth),Ever,33.6
+2015,Illinois,Cigarette Use (Youth),Frequent,2.7
+2015,Illinois,Smokeless Tobacco Use (Youth),Current,6
+2015,Illinois,Smokeless Tobacco Use (Youth),Ever,15.7
+2015,Illinois,Smokeless Tobacco Use (Youth),Frequent,2.2
+2015,Mississippi,Cigarette Use (Youth),Current,12.2
+2015,Mississippi,Cigarette Use (Youth),Ever,37.4
+2015,Mississippi,Cigarette Use (Youth),Frequent,4.2
+2015,Mississippi,Smokeless Tobacco Use (Youth),Current,8
+2015,Mississippi,Smokeless Tobacco Use (Youth),Ever,16
+2015,Mississippi,Smokeless Tobacco Use (Youth),Frequent,3.7
+2015,Nebraska,Cigarette Use (Youth),Current,9.4
+2015,Nebraska,Cigarette Use (Youth),Ever,29
+2015,Nebraska,Cigarette Use (Youth),Frequent,3.7
+2015,Nebraska,Smokeless Tobacco Use (Youth),Current,5.6
+2015,Nebraska,Smokeless Tobacco Use (Youth),Ever,12.8
+2015,Nebraska,Smokeless Tobacco Use (Youth),Frequent,1.4
+2015,New Jersey,Cigarette Use (Youth),Current,8.2
+2015,New Jersey,Cigarette Use (Youth),Ever,26.4
+2015,New Jersey,Cigarette Use (Youth),Frequent,2.6
+2015,New Jersey,Smokeless Tobacco Use (Youth),Current,4.1
+2015,New Jersey,Smokeless Tobacco Use (Youth),Ever,9.3
+2015,New Jersey,Smokeless Tobacco Use (Youth),Frequent,1
+2015,North Carolina,Cigarette Use (Youth),Current,9.3
+2015,North Carolina,Cigarette Use (Youth),Ever,29.7
+2015,North Carolina,Cigarette Use (Youth),Frequent,2.5
+2015,North Carolina,Smokeless Tobacco Use (Youth),Current,6.5
+2015,North Carolina,Smokeless Tobacco Use (Youth),Ever,15.9
+2015,North Carolina,Smokeless Tobacco Use (Youth),Frequent,3
+2015,North Dakota,Cigarette Use (Youth),Current,12.4
+2015,North Dakota,Cigarette Use (Youth),Ever,31.7
+2015,North Dakota,Cigarette Use (Youth),Frequent,4.7
+2015,North Dakota,Smokeless Tobacco Use (Youth),Current,8.4
+2015,North Dakota,Smokeless Tobacco Use (Youth),Ever,19.6
+2015,North Dakota,Smokeless Tobacco Use (Youth),Frequent,2.9
+2015,Pennsylvania,Cigarette Use (Youth),Current,10.3
+2015,Pennsylvania,Cigarette Use (Youth),Ever,29
+2015,Pennsylvania,Cigarette Use (Youth),Frequent,3.5
+2015,Pennsylvania,Smokeless Tobacco Use (Youth),Current,7.6
+2015,Pennsylvania,Smokeless Tobacco Use (Youth),Ever,14.7
+2015,Pennsylvania,Smokeless Tobacco Use (Youth),Frequent,2.8
+2015,South Carolina,Cigarette Use (Youth),Current,11.9
+2015,South Carolina,Cigarette Use (Youth),Ever,41.2
+2015,South Carolina,Cigarette Use (Youth),Frequent,2.6
+2015,South Carolina,Smokeless Tobacco Use (Youth),Current,6.9
+2015,South Carolina,Smokeless Tobacco Use (Youth),Ever,20.7
+2015,South Carolina,Smokeless Tobacco Use (Youth),Frequent,3
+2015,West Virginia,Cigarette Use (Youth),Current,16.2
+2015,West Virginia,Cigarette Use (Youth),Ever,41.6
+2015,West Virginia,Cigarette Use (Youth),Frequent,5.7
+2015,West Virginia,Smokeless Tobacco Use (Youth),Current,13.1
+2015,West Virginia,Smokeless Tobacco Use (Youth),Ever,24.4
+2015,West Virginia,Smokeless Tobacco Use (Youth),Frequent,6.6
+2014,Alabama,Cigarette Use (Youth),Current,17.7
+2014,Alabama,Cigarette Use (Youth),Ever,44.5
+2014,Alabama,Cigarette Use (Youth),Frequent,5.9
+2014,Alabama,Smokeless Tobacco Use (Youth),Current,9.7
+2014,Alabama,Smokeless Tobacco Use (Youth),Ever,20.6
+2014,Alabama,Smokeless Tobacco Use (Youth),Frequent,4.8
+2014,Delaware,Cigarette Use (Youth),Current,11.3
+2014,Delaware,Cigarette Use (Youth),Ever,33.1
+2014,Delaware,Cigarette Use (Youth),Frequent,3.7
+2014,Delaware,Smokeless Tobacco Use (Youth),Current,4.8
+2014,Delaware,Smokeless Tobacco Use (Youth),Ever,10
+2014,Delaware,Smokeless Tobacco Use (Youth),Frequent,1.6
+2014,Minnesota,Cigarette Use (Youth),Current,10.6
+2014,Minnesota,Cigarette Use (Youth),Ever,31.4
+2014,Minnesota,Cigarette Use (Youth),Frequent,4.1
+2014,Minnesota,Smokeless Tobacco Use (Youth),Current,6.2
+2014,Minnesota,Smokeless Tobacco Use (Youth),Ever,14.1
+2014,Minnesota,Smokeless Tobacco Use (Youth),Frequent,2.5
+2014,Mississippi,Cigarette Use (Youth),Current,12.2
+2014,Mississippi,Cigarette Use (Youth),Ever,37.4
+2014,Mississippi,Cigarette Use (Youth),Frequent,4.2
+2014,Mississippi,Smokeless Tobacco Use (Youth),Current,8
+2014,Mississippi,Smokeless Tobacco Use (Youth),Ever,16
+2014,Mississippi,Smokeless Tobacco Use (Youth),Frequent,3.7
+2014,Nebraska,Cigarette Use (Youth),Current,9.4
+2014,Nebraska,Cigarette Use (Youth),Ever,29
+2014,Nebraska,Cigarette Use (Youth),Frequent,3.7
+2014,Nebraska,Smokeless Tobacco Use (Youth),Current,5.6
+2014,Nebraska,Smokeless Tobacco Use (Youth),Ever,12.8
+2014,Nebraska,Smokeless Tobacco Use (Youth),Frequent,1.4
+2014,New Jersey,Cigarette Use (Youth),Current,8.2
+2014,New Jersey,Cigarette Use (Youth),Ever,26.4
+2014,New Jersey,Cigarette Use (Youth),Frequent,2.6
+2014,New Jersey,Smokeless Tobacco Use (Youth),Current,4.1
+2014,New Jersey,Smokeless Tobacco Use (Youth),Ever,9.3
+2014,New Jersey,Smokeless Tobacco Use (Youth),Frequent,1
+2014,Pennsylvania,Cigarette Use (Youth),Current,10.3
+2014,Pennsylvania,Cigarette Use (Youth),Ever,29
+2014,Pennsylvania,Cigarette Use (Youth),Frequent,3.5
+2014,Pennsylvania,Smokeless Tobacco Use (Youth),Current,7.6
+2014,Pennsylvania,Smokeless Tobacco Use (Youth),Ever,14.7
+2014,Pennsylvania,Smokeless Tobacco Use (Youth),Frequent,2.8
+2013,Connecticut,Cigarette Use (Youth),Current,8.9
+2013,Connecticut,Cigarette Use (Youth),Ever,28.1
+2013,Connecticut,Cigarette Use (Youth),Frequent,3.5
+2013,Connecticut,Smokeless Tobacco Use (Youth),Current,4.9
+2013,Connecticut,Smokeless Tobacco Use (Youth),Ever,9.7
+2013,Connecticut,Smokeless Tobacco Use (Youth),Frequent,1.9
+2013,Georgia,Cigarette Use (Youth),Current,12
+2013,Georgia,Cigarette Use (Youth),Ever,35.9
+2013,Georgia,Cigarette Use (Youth),Frequent,3.5
+2013,Georgia,Smokeless Tobacco Use (Youth),Current,5.4
+2013,Georgia,Smokeless Tobacco Use (Youth),Ever,15.7
+2013,Georgia,Smokeless Tobacco Use (Youth),Frequent,2
+2013,Hawaii,Cigarette Use (Youth),Current,5.8
+2013,Hawaii,Cigarette Use (Youth),Ever,27.5
+2013,Hawaii,Cigarette Use (Youth),Frequent,1.5
+2013,Hawaii,Smokeless Tobacco Use (Youth),Current,2.6
+2013,Hawaii,Smokeless Tobacco Use (Youth),Ever,6.4
+2013,Hawaii,Smokeless Tobacco Use (Youth),Frequent,0.6
+2013,Illinois,Cigarette Use (Youth),Current,12.9
+2013,Illinois,Cigarette Use (Youth),Ever,40.4
+2013,Illinois,Cigarette Use (Youth),Frequent,4.6
+2013,Illinois,Smokeless Tobacco Use (Youth),Current,7.7
+2013,Illinois,Smokeless Tobacco Use (Youth),Ever,18.8
+2013,Illinois,Smokeless Tobacco Use (Youth),Frequent,2.7
+2013,Indiana,Cigarette Use (Youth),Current,13.7
+2013,Indiana,Cigarette Use (Youth),Ever,37.4
+2013,Indiana,Cigarette Use (Youth),Frequent,5.9
+2013,Indiana,Smokeless Tobacco Use (Youth),Current,6.6
+2013,Indiana,Smokeless Tobacco Use (Youth),Ever,15.8
+2013,Indiana,Smokeless Tobacco Use (Youth),Frequent,2
+2013,Louisiana,Cigarette Use (Youth),Current,14.3
+2013,Louisiana,Cigarette Use (Youth),Ever,41
+2013,Louisiana,Cigarette Use (Youth),Frequent,3.6
+2013,Louisiana,Smokeless Tobacco Use (Youth),Current,9.2
+2013,Louisiana,Smokeless Tobacco Use (Youth),Ever,20
+2013,Louisiana,Smokeless Tobacco Use (Youth),Frequent,3.9
+2013,Mississippi,Cigarette Use (Youth),Current,13.3
+2013,Mississippi,Cigarette Use (Youth),Ever,39.8
+2013,Mississippi,Cigarette Use (Youth),Frequent,4.3
+2013,Mississippi,Smokeless Tobacco Use (Youth),Current,8
+2013,Mississippi,Smokeless Tobacco Use (Youth),Ever,15.8
+2013,Mississippi,Smokeless Tobacco Use (Youth),Frequent,3.5
+2013,Nebraska,Cigarette Use (Youth),Current,11.7
+2013,Nebraska,Cigarette Use (Youth),Ever,34.6
+2013,Nebraska,Cigarette Use (Youth),Frequent,5.1
+2013,Nebraska,Smokeless Tobacco Use (Youth),Current,6.6
+2013,Nebraska,Smokeless Tobacco Use (Youth),Ever,15
+2013,Nebraska,Smokeless Tobacco Use (Youth),Frequent,2.5
+2013,New Jersey,Cigarette Use (Youth),Current,9.3
+2013,New Jersey,Cigarette Use (Youth),Ever,30
+2013,New Jersey,Cigarette Use (Youth),Frequent,3.5
+2013,New Jersey,Smokeless Tobacco Use (Youth),Current,3.4
+2013,New Jersey,Smokeless Tobacco Use (Youth),Ever,9.8
+2013,New Jersey,Smokeless Tobacco Use (Youth),Frequent,1.1
+2013,North Carolina,Cigarette Use (Youth),Current,13.5
+2013,North Carolina,Cigarette Use (Youth),Ever,38.8
+2013,North Carolina,Cigarette Use (Youth),Frequent,4.1
+2013,North Carolina,Smokeless Tobacco Use (Youth),Current,8.3
+2013,North Carolina,Smokeless Tobacco Use (Youth),Ever,17.6
+2013,North Carolina,Smokeless Tobacco Use (Youth),Frequent,3.2
+2013,North Dakota,Cigarette Use (Youth),Current,16.2
+2013,North Dakota,Cigarette Use (Youth),Ever,38.1
+2013,North Dakota,Cigarette Use (Youth),Frequent,6.5
+2013,North Dakota,Smokeless Tobacco Use (Youth),Current,10
+2013,North Dakota,Smokeless Tobacco Use (Youth),Ever,23
+2013,North Dakota,Smokeless Tobacco Use (Youth),Frequent,3.9
+2013,South Carolina,Cigarette Use (Youth),Current,15.3
+2013,South Carolina,Cigarette Use (Youth),Ever,48.7
+2013,South Carolina,Cigarette Use (Youth),Frequent,4.9
+2013,South Carolina,Smokeless Tobacco Use (Youth),Current,8.8
+2013,South Carolina,Smokeless Tobacco Use (Youth),Ever,22.7
+2013,South Carolina,Smokeless Tobacco Use (Youth),Frequent,3.4
+2013,West Virginia,Cigarette Use (Youth),Current,18.6
+2013,West Virginia,Cigarette Use (Youth),Ever,46.8
+2013,West Virginia,Cigarette Use (Youth),Frequent,9
+2013,West Virginia,Smokeless Tobacco Use (Youth),Current,14.7
+2013,West Virginia,Smokeless Tobacco Use (Youth),Ever,25.7
+2013,West Virginia,Smokeless Tobacco Use (Youth),Frequent,7.8
+2012,Alabama,Cigarette Use (Youth),Current,19.3
+2012,Alabama,Cigarette Use (Youth),Ever,49.4
+2012,Alabama,Cigarette Use (Youth),Frequent,7.4
+2012,Alabama,Smokeless Tobacco Use (Youth),Current,12.6
+2012,Alabama,Smokeless Tobacco Use (Youth),Ever,26.4
+2012,Alabama,Smokeless Tobacco Use (Youth),Frequent,6.1
+2012,Delaware,Cigarette Use (Youth),Current,14.1
+2012,Delaware,Cigarette Use (Youth),Ever,39.7
+2012,Delaware,Cigarette Use (Youth),Frequent,5.6
+2012,Delaware,Smokeless Tobacco Use (Youth),Current,4.4
+2012,Delaware,Smokeless Tobacco Use (Youth),Ever,9.8
+2012,Delaware,Smokeless Tobacco Use (Youth),Frequent,1.1
+2012,Mississippi,Cigarette Use (Youth),Current,18.1
+2012,Mississippi,Cigarette Use (Youth),Ever,46.7
+2012,Mississippi,Cigarette Use (Youth),Frequent,6.8
+2012,Mississippi,Smokeless Tobacco Use (Youth),Current,9.6
+2012,Mississippi,Smokeless Tobacco Use (Youth),Ever,17.8
+2012,Mississippi,Smokeless Tobacco Use (Youth),Frequent,5.1
+2012,Nebraska,Cigarette Use (Youth),Current,11.7
+2012,Nebraska,Cigarette Use (Youth),Ever,34.6
+2012,Nebraska,Cigarette Use (Youth),Frequent,5.1
+2012,Nebraska,Smokeless Tobacco Use (Youth),Current,6.6
+2012,Nebraska,Smokeless Tobacco Use (Youth),Ever,15
+2012,Nebraska,Smokeless Tobacco Use (Youth),Frequent,2.5
+2012,New Jersey,Cigarette Use (Youth),Current,9.6
+2012,New Jersey,Cigarette Use (Youth),Ever,31.2
+2012,New Jersey,Cigarette Use (Youth),Frequent,3.5
+2012,New Jersey,Smokeless Tobacco Use (Youth),Current,3.5
+2012,New Jersey,Smokeless Tobacco Use (Youth),Ever,10
+2012,New Jersey,Smokeless Tobacco Use (Youth),Frequent,1.1
+2012,Wisconsin,Cigarette Use (Youth),Current,13.1
+2012,Wisconsin,Cigarette Use (Youth),Ever,34.1
+2012,Wisconsin,Cigarette Use (Youth),Frequent,4.7
+2012,Wisconsin,Smokeless Tobacco Use (Youth),Current,5.8
+2012,Wisconsin,Smokeless Tobacco Use (Youth),Ever,14.6
+2012,Wisconsin,Smokeless Tobacco Use (Youth),Frequent,1.7
+2011,Connecticut,Cigarette Use (Youth),Current,14
+2011,Connecticut,Cigarette Use (Youth),Ever,33.4
+2011,Connecticut,Cigarette Use (Youth),Frequent,5
+2011,Connecticut,Smokeless Tobacco Use (Youth),Current,5
+2011,Connecticut,Smokeless Tobacco Use (Youth),Ever,10.8
+2011,Connecticut,Smokeless Tobacco Use (Youth),Frequent,1.4
+2011,Georgia,Cigarette Use (Youth),Current,17.2
+2011,Georgia,Cigarette Use (Youth),Ever,44.9
+2011,Georgia,Cigarette Use (Youth),Frequent,6.5
+2011,Georgia,Smokeless Tobacco Use (Youth),Current,8.4
+2011,Georgia,Smokeless Tobacco Use (Youth),Ever,18.8
+2011,Georgia,Smokeless Tobacco Use (Youth),Frequent,2.7
+2011,Hawaii,Cigarette Use (Youth),Current,8.7
+2011,Hawaii,Cigarette Use (Youth),Ever,30.2
+2011,Hawaii,Cigarette Use (Youth),Frequent,2.9
+2011,Hawaii,Smokeless Tobacco Use (Youth),Current,1.6
+2011,Hawaii,Smokeless Tobacco Use (Youth),Ever,4.9
+2011,Hawaii,Smokeless Tobacco Use (Youth),Frequent,0.5
+2011,Louisiana,Cigarette Use (Youth),Current,23.6
+2011,Louisiana,Cigarette Use (Youth),Ever,51.2
+2011,Louisiana,Cigarette Use (Youth),Frequent,9.4
+2011,Louisiana,Smokeless Tobacco Use (Youth),Current,11.1
+2011,Louisiana,Smokeless Tobacco Use (Youth),Ever,18.8
+2011,Louisiana,Smokeless Tobacco Use (Youth),Frequent,3.8
+2011,Michigan,Cigarette Use (Youth),Current,16.5
+2011,Michigan,Cigarette Use (Youth),Ever,40
+2011,Michigan,Cigarette Use (Youth),Frequent,7.4
+2011,Michigan,Smokeless Tobacco Use (Youth),Current,7.8
+2011,Michigan,Smokeless Tobacco Use (Youth),Ever,16.9
+2011,Michigan,Smokeless Tobacco Use (Youth),Frequent,2.9
+2011,Missouri,Cigarette Use (Youth),Current,18.1
+2011,Missouri,Cigarette Use (Youth),Ever,43
+2011,Missouri,Cigarette Use (Youth),Frequent,8.2
+2011,Missouri,Smokeless Tobacco Use (Youth),Current,10.3
+2011,Missouri,Smokeless Tobacco Use (Youth),Ever,21.3
+2011,Missouri,Smokeless Tobacco Use (Youth),Frequent,4.7
+2011,New Hampshire,Cigarette Use (Youth),Current,17
+2011,New Hampshire,Cigarette Use (Youth),Ever,36.2
+2011,New Hampshire,Cigarette Use (Youth),Frequent,7.9
+2011,New Hampshire,Smokeless Tobacco Use (Youth),Current,6.1
+2011,New Hampshire,Smokeless Tobacco Use (Youth),Ever,16.6
+2011,New Hampshire,Smokeless Tobacco Use (Youth),Frequent,2.1
+2011,North Carolina,Cigarette Use (Youth),Current,15.5
+2011,North Carolina,Cigarette Use (Youth),Ever,39.9
+2011,North Carolina,Cigarette Use (Youth),Frequent,5.3
+2011,North Carolina,Smokeless Tobacco Use (Youth),Current,6.6
+2011,North Carolina,Smokeless Tobacco Use (Youth),Ever,16.2
+2011,North Carolina,Smokeless Tobacco Use (Youth),Frequent,2.2
+2011,North Dakota,Cigarette Use (Youth),Current,19.6
+2011,North Dakota,Cigarette Use (Youth),Ever,43.9
+2011,North Dakota,Cigarette Use (Youth),Frequent,8.9
+2011,North Dakota,Smokeless Tobacco Use (Youth),Current,13.1
+2011,North Dakota,Smokeless Tobacco Use (Youth),Ever,25.8
+2011,North Dakota,Smokeless Tobacco Use (Youth),Frequent,4.1
+2011,Oklahoma,Cigarette Use (Youth),Current,17.9
+2011,Oklahoma,Cigarette Use (Youth),Ever,55.6
+2011,Oklahoma,Cigarette Use (Youth),Frequent,7.7
+2011,Oklahoma,Smokeless Tobacco Use (Youth),Current,12
+2011,Oklahoma,Smokeless Tobacco Use (Youth),Ever,24.5
+2011,Oklahoma,Smokeless Tobacco Use (Youth),Frequent,5.3
+2011,South Carolina,Cigarette Use (Youth),Current,23.7
+2011,South Carolina,Cigarette Use (Youth),Ever,50
+2011,South Carolina,Cigarette Use (Youth),Frequent,9.3
+2011,South Carolina,Smokeless Tobacco Use (Youth),Current,11.9
+2011,South Carolina,Smokeless Tobacco Use (Youth),Ever,23.3
+2011,South Carolina,Smokeless Tobacco Use (Youth),Frequent,3.5
+2011,West Virginia,Cigarette Use (Youth),Current,22.4
+2011,West Virginia,Cigarette Use (Youth),Ever,49.5
+2011,West Virginia,Cigarette Use (Youth),Frequent,11.5
+2011,West Virginia,Smokeless Tobacco Use (Youth),Current,14.7
+2011,West Virginia,Smokeless Tobacco Use (Youth),Ever,25.8
+2011,West Virginia,Smokeless Tobacco Use (Youth),Frequent,7.2
+2010,Alabama,Cigarette Use (Youth),Current,18.6
+2010,Alabama,Cigarette Use (Youth),Ever,48.6
+2010,Alabama,Cigarette Use (Youth),Frequent,7.9
+2010,Alabama,Smokeless Tobacco Use (Youth),Current,11.7
+2010,Alabama,Smokeless Tobacco Use (Youth),Ever,22.3
+2010,Alabama,Smokeless Tobacco Use (Youth),Frequent,5.2
+2010,Arkansas,Cigarette Use (Youth),Current,23.5
+2010,Arkansas,Cigarette Use (Youth),Ever,52.5
+2010,Arkansas,Cigarette Use (Youth),Frequent,10.2
+2010,Arkansas,Smokeless Tobacco Use (Youth),Current,14.6
+2010,Arkansas,Smokeless Tobacco Use (Youth),Ever,26.6
+2010,Arkansas,Smokeless Tobacco Use (Youth),Frequent,6.7
+2010,Delaware,Cigarette Use (Youth),Current,14.9
+2010,Delaware,Cigarette Use (Youth),Ever,45
+2010,Delaware,Cigarette Use (Youth),Frequent,5.8
+2010,Delaware,Smokeless Tobacco Use (Youth),Current,5.8
+2010,Delaware,Smokeless Tobacco Use (Youth),Ever,12.2
+2010,Delaware,Smokeless Tobacco Use (Youth),Frequent,1.9
+2010,Illinois,Cigarette Use (Youth),Current,18.4
+2010,Illinois,Cigarette Use (Youth),Ever,46.3
+2010,Illinois,Cigarette Use (Youth),Frequent,8.1
+2010,Illinois,Smokeless Tobacco Use (Youth),Current,7.7
+2010,Illinois,Smokeless Tobacco Use (Youth),Ever,16.5
+2010,Illinois,Smokeless Tobacco Use (Youth),Frequent,2
+2010,Indiana,Cigarette Use (Youth),Current,17.5
+2010,Indiana,Cigarette Use (Youth),Ever,43.6
+2010,Indiana,Cigarette Use (Youth),Frequent,7.2
+2010,Indiana,Smokeless Tobacco Use (Youth),Current,7.2
+2010,Indiana,Smokeless Tobacco Use (Youth),Ever,15.4
+2010,Indiana,Smokeless Tobacco Use (Youth),Frequent,2.3
+2010,Kentucky,Cigarette Use (Youth),Current,26.6
+2010,Kentucky,Cigarette Use (Youth),Ever,54.5
+2010,Kentucky,Cigarette Use (Youth),Frequent,12.8
+2010,Kentucky,Smokeless Tobacco Use (Youth),Current,16.8
+2010,Kentucky,Smokeless Tobacco Use (Youth),Ever,32.7
+2010,Kentucky,Smokeless Tobacco Use (Youth),Frequent,8
+2010,Mississippi,Cigarette Use (Youth),Current,19.7
+2010,Mississippi,Cigarette Use (Youth),Ever,51.2
+2010,Mississippi,Cigarette Use (Youth),Frequent,7
+2010,Mississippi,Smokeless Tobacco Use (Youth),Current,9.6
+2010,Mississippi,Smokeless Tobacco Use (Youth),Ever,20.2
+2010,Mississippi,Smokeless Tobacco Use (Youth),Frequent,4.5
+2010,New Jersey,Cigarette Use (Youth),Current,14.3
+2010,New Jersey,Cigarette Use (Youth),Ever,34.4
+2010,New Jersey,Cigarette Use (Youth),Frequent,5.4
+2010,New Jersey,Smokeless Tobacco Use (Youth),Current,5.4
+2010,New Jersey,Smokeless Tobacco Use (Youth),Ever,14.1
+2010,New Jersey,Smokeless Tobacco Use (Youth),Frequent,1
+2010,Pennsylvania,Cigarette Use (Youth),Current,18.6
+2010,Pennsylvania,Cigarette Use (Youth),Ever,38.8
+2010,Pennsylvania,Cigarette Use (Youth),Frequent,8.4
+2010,Pennsylvania,Smokeless Tobacco Use (Youth),Current,8.5
+2010,Pennsylvania,Smokeless Tobacco Use (Youth),Ever,18.1
+2010,Pennsylvania,Smokeless Tobacco Use (Youth),Frequent,3.5
+2010,Wisconsin,Cigarette Use (Youth),Current,17.7
+2010,Wisconsin,Cigarette Use (Youth),Ever,41.6
+2010,Wisconsin,Cigarette Use (Youth),Frequent,6.8
+2010,Wisconsin,Smokeless Tobacco Use (Youth),Current,7.1
+2010,Wisconsin,Smokeless Tobacco Use (Youth),Ever,18.5
+2010,Wisconsin,Smokeless Tobacco Use (Youth),Frequent,1.8
+2009,Connecticut,Cigarette Use (Youth),Current,15.3
+2009,Connecticut,Cigarette Use (Youth),Ever,37.1
+2009,Connecticut,Cigarette Use (Youth),Frequent,5.2
+2009,Connecticut,Smokeless Tobacco Use (Youth),Current,5.5
+2009,Connecticut,Smokeless Tobacco Use (Youth),Ever,10.4
+2009,Connecticut,Smokeless Tobacco Use (Youth),Frequent,1.2
+2009,Georgia,Cigarette Use (Youth),Current,15.4
+2009,Georgia,Cigarette Use (Youth),Ever,43.8
+2009,Georgia,Cigarette Use (Youth),Frequent,5.9
+2009,Georgia,Smokeless Tobacco Use (Youth),Current,8.2
+2009,Georgia,Smokeless Tobacco Use (Youth),Ever,17.7
+2009,Georgia,Smokeless Tobacco Use (Youth),Frequent,3.3
+2009,Hawaii,Cigarette Use (Youth),Current,11.3
+2009,Hawaii,Cigarette Use (Youth),Ever,36.9
+2009,Hawaii,Cigarette Use (Youth),Frequent,3.8
+2009,Hawaii,Smokeless Tobacco Use (Youth),Current,3.2
+2009,Hawaii,Smokeless Tobacco Use (Youth),Ever,6.5
+2009,Hawaii,Smokeless Tobacco Use (Youth),Frequent,1.3
+2009,Iowa,Cigarette Use (Youth),Current,19.9
+2009,Iowa,Cigarette Use (Youth),Ever,41.7
+2009,Iowa,Cigarette Use (Youth),Frequent,8.4
+2009,Iowa,Smokeless Tobacco Use (Youth),Current,9.2
+2009,Iowa,Smokeless Tobacco Use (Youth),Ever,18.9
+2009,Iowa,Smokeless Tobacco Use (Youth),Frequent,3.3
+2009,Kansas,Cigarette Use (Youth),Current,17.1
+2009,Kansas,Cigarette Use (Youth),Ever,38.7
+2009,Kansas,Cigarette Use (Youth),Frequent,5.1
+2009,Kansas,Smokeless Tobacco Use (Youth),Current,8.7
+2009,Kansas,Smokeless Tobacco Use (Youth),Ever,18.6
+2009,Kansas,Smokeless Tobacco Use (Youth),Frequent,3.3
+2009,Louisiana,Cigarette Use (Youth),Current,19.4
+2009,Louisiana,Cigarette Use (Youth),Ever,53.4
+2009,Louisiana,Cigarette Use (Youth),Frequent,5.6
+2009,Louisiana,Smokeless Tobacco Use (Youth),Current,10.2
+2009,Louisiana,Smokeless Tobacco Use (Youth),Ever,18.3
+2009,Louisiana,Smokeless Tobacco Use (Youth),Frequent,3.7
+2009,Mississippi,Cigarette Use (Youth),Current,18.8
+2009,Mississippi,Cigarette Use (Youth),Ever,48
+2009,Mississippi,Cigarette Use (Youth),Frequent,7.8
+2009,Mississippi,Smokeless Tobacco Use (Youth),Current,9.8
+2009,Mississippi,Smokeless Tobacco Use (Youth),Ever,18.6
+2009,Mississippi,Smokeless Tobacco Use (Youth),Frequent,4.3
+2009,Missouri,Cigarette Use (Youth),Current,19.4
+2009,Missouri,Cigarette Use (Youth),Ever,46.2
+2009,Missouri,Cigarette Use (Youth),Frequent,9.9
+2009,Missouri,Smokeless Tobacco Use (Youth),Current,11.5
+2009,Missouri,Smokeless Tobacco Use (Youth),Ever,21.7
+2009,Missouri,Smokeless Tobacco Use (Youth),Frequent,4.3
+2009,New Hampshire,Cigarette Use (Youth),Current,16
+2009,New Hampshire,Cigarette Use (Youth),Ever,37.9
+2009,New Hampshire,Cigarette Use (Youth),Frequent,7.2
+2009,New Hampshire,Smokeless Tobacco Use (Youth),Current,7.4
+2009,New Hampshire,Smokeless Tobacco Use (Youth),Ever,14.8
+2009,New Hampshire,Smokeless Tobacco Use (Youth),Frequent,2.9
+2009,North Carolina,Cigarette Use (Youth),Current,16.7
+2009,North Carolina,Cigarette Use (Youth),Ever,44.1
+2009,North Carolina,Cigarette Use (Youth),Frequent,6.5
+2009,North Carolina,Smokeless Tobacco Use (Youth),Current,8.5
+2009,North Carolina,Smokeless Tobacco Use (Youth),Ever,19
+2009,North Carolina,Smokeless Tobacco Use (Youth),Frequent,3
+2009,North Dakota,Cigarette Use (Youth),Current,22.9
+2009,North Dakota,Cigarette Use (Youth),Ever,45.4
+2009,North Dakota,Cigarette Use (Youth),Frequent,9.9
+2009,North Dakota,Smokeless Tobacco Use (Youth),Current,13.4
+2009,North Dakota,Smokeless Tobacco Use (Youth),Ever,24.9
+2009,North Dakota,Smokeless Tobacco Use (Youth),Frequent,4
+2009,Oklahoma,Cigarette Use (Youth),Current,20.2
+2009,Oklahoma,Cigarette Use (Youth),Ever,52.9
+2009,Oklahoma,Cigarette Use (Youth),Frequent,7.6
+2009,Oklahoma,Smokeless Tobacco Use (Youth),Current,12.1
+2009,Oklahoma,Smokeless Tobacco Use (Youth),Ever,24.2
+2009,Oklahoma,Smokeless Tobacco Use (Youth),Frequent,5
+2009,South Carolina,Cigarette Use (Youth),Current,21.8
+2009,South Carolina,Cigarette Use (Youth),Ever,51
+2009,South Carolina,Cigarette Use (Youth),Frequent,10
+2009,South Carolina,Smokeless Tobacco Use (Youth),Current,10.3
+2009,South Carolina,Smokeless Tobacco Use (Youth),Ever,21.5
+2009,South Carolina,Smokeless Tobacco Use (Youth),Frequent,2.7
+2009,West Virginia,Cigarette Use (Youth),Current,22.3
+2009,West Virginia,Cigarette Use (Youth),Ever,52.2
+2009,West Virginia,Cigarette Use (Youth),Frequent,10.6
+2009,West Virginia,Smokeless Tobacco Use (Youth),Current,13.9
+2009,West Virginia,Smokeless Tobacco Use (Youth),Ever,27.6
+2009,West Virginia,Smokeless Tobacco Use (Youth),Frequent,6.2
+2008,Alabama,Cigarette Use (Youth),Current,22.1
+2008,Alabama,Cigarette Use (Youth),Ever,52.3
+2008,Alabama,Cigarette Use (Youth),Frequent,9.7
+2008,Alabama,Smokeless Tobacco Use (Youth),Current,10.9
+2008,Alabama,Smokeless Tobacco Use (Youth),Ever,22.2
+2008,Alabama,Smokeless Tobacco Use (Youth),Frequent,4.7
+2008,Delaware,Cigarette Use (Youth),Current,17.3
+2008,Delaware,Cigarette Use (Youth),Ever,48.1
+2008,Delaware,Cigarette Use (Youth),Frequent,7.4
+2008,Delaware,Smokeless Tobacco Use (Youth),Current,5.7
+2008,Delaware,Smokeless Tobacco Use (Youth),Ever,11.7
+2008,Delaware,Smokeless Tobacco Use (Youth),Frequent,2
+2008,Indiana,Cigarette Use (Youth),Current,18.3
+2008,Indiana,Cigarette Use (Youth),Ever,50.7
+2008,Indiana,Cigarette Use (Youth),Frequent,8.7
+2008,Indiana,Smokeless Tobacco Use (Youth),Current,8.2
+2008,Indiana,Smokeless Tobacco Use (Youth),Frequent,2.9
+2008,Iowa,Cigarette Use (Youth),Current,19.9
+2008,Iowa,Cigarette Use (Youth),Ever,41.7
+2008,Iowa,Cigarette Use (Youth),Frequent,8.4
+2008,Iowa,Smokeless Tobacco Use (Youth),Current,9.2
+2008,Iowa,Smokeless Tobacco Use (Youth),Ever,18.9
+2008,Iowa,Smokeless Tobacco Use (Youth),Frequent,3.3
+2008,Kentucky,Cigarette Use (Youth),Current,26.8
+2008,Kentucky,Cigarette Use (Youth),Ever,58.9
+2008,Kentucky,Cigarette Use (Youth),Frequent,14.6
+2008,Kentucky,Smokeless Tobacco Use (Youth),Current,14.1
+2008,Kentucky,Smokeless Tobacco Use (Youth),Ever,30.9
+2008,Kentucky,Smokeless Tobacco Use (Youth),Frequent,6.4
+2008,Louisiana,Cigarette Use (Youth),Current,18.8
+2008,Louisiana,Cigarette Use (Youth),Ever,51.1
+2008,Louisiana,Cigarette Use (Youth),Frequent,6.5
+2008,Louisiana,Smokeless Tobacco Use (Youth),Current,8.8
+2008,Louisiana,Smokeless Tobacco Use (Youth),Ever,18.2
+2008,Louisiana,Smokeless Tobacco Use (Youth),Frequent,3.4
+2008,New Jersey,Cigarette Use (Youth),Current,14.3
+2008,New Jersey,Cigarette Use (Youth),Ever,37.1
+2008,New Jersey,Cigarette Use (Youth),Frequent,5.5
+2008,New Jersey,Smokeless Tobacco Use (Youth),Current,5
+2008,New Jersey,Smokeless Tobacco Use (Youth),Ever,11.4
+2008,New Jersey,Smokeless Tobacco Use (Youth),Frequent,0.9
+2008,Ohio,Cigarette Use (Youth),Current,19.4
+2008,Ohio,Cigarette Use (Youth),Ever,48.9
+2008,Ohio,Cigarette Use (Youth),Frequent,9.2
+2008,Ohio,Smokeless Tobacco Use (Youth),Current,10
+2008,Ohio,Smokeless Tobacco Use (Youth),Ever,20.8
+2008,Ohio,Smokeless Tobacco Use (Youth),Frequent,2.8
+2008,Pennsylvania,Cigarette Use (Youth),Current,18.5
+2008,Pennsylvania,Cigarette Use (Youth),Ever,41.2
+2008,Pennsylvania,Cigarette Use (Youth),Frequent,7.4
+2008,Pennsylvania,Smokeless Tobacco Use (Youth),Current,8.8
+2008,Pennsylvania,Smokeless Tobacco Use (Youth),Ever,17.6
+2008,Pennsylvania,Smokeless Tobacco Use (Youth),Frequent,2.9
+2008,Wisconsin,Cigarette Use (Youth),Current,20.7
+2008,Wisconsin,Cigarette Use (Youth),Ever,47.2
+2008,Wisconsin,Cigarette Use (Youth),Frequent,8.5
+2008,Wisconsin,Smokeless Tobacco Use (Youth),Current,7
+2008,Wisconsin,Smokeless Tobacco Use (Youth),Ever,17.4
+2008,Wisconsin,Smokeless Tobacco Use (Youth),Frequent,2
+2007,Arizona,Cigarette Use (Youth),Current,16.8
+2007,Arizona,Cigarette Use (Youth),Ever,48.8
+2007,Arizona,Cigarette Use (Youth),Frequent,6.1
+2007,Arizona,Smokeless Tobacco Use (Youth),Current,6.4
+2007,Arizona,Smokeless Tobacco Use (Youth),Ever,15.1
+2007,Arizona,Smokeless Tobacco Use (Youth),Frequent,1.3
+2007,Arkansas,Cigarette Use (Youth),Current,20.4
+2007,Arkansas,Cigarette Use (Youth),Ever,55.1
+2007,Arkansas,Cigarette Use (Youth),Frequent,8.9
+2007,Arkansas,Smokeless Tobacco Use (Youth),Current,9.9
+2007,Arkansas,Smokeless Tobacco Use (Youth),Ever,24.4
+2007,Arkansas,Smokeless Tobacco Use (Youth),Frequent,3.3
+2007,Connecticut,Cigarette Use (Youth),Current,16.9
+2007,Connecticut,Cigarette Use (Youth),Ever,42.1
+2007,Connecticut,Cigarette Use (Youth),Frequent,7.2
+2007,Connecticut,Smokeless Tobacco Use (Youth),Current,4.9
+2007,Connecticut,Smokeless Tobacco Use (Youth),Ever,10.2
+2007,Connecticut,Smokeless Tobacco Use (Youth),Frequent,0.8
+2007,Michigan,Cigarette Use (Youth),Current,19.7
+2007,Michigan,Cigarette Use (Youth),Ever,47.1
+2007,Michigan,Cigarette Use (Youth),Frequent,6.8
+2007,Michigan,Smokeless Tobacco Use (Youth),Current,8.7
+2007,Michigan,Smokeless Tobacco Use (Youth),Ever,18
+2007,Michigan,Smokeless Tobacco Use (Youth),Frequent,1.1
+2007,Missouri,Cigarette Use (Youth),Current,21.3
+2007,Missouri,Cigarette Use (Youth),Ever,51.1
+2007,Missouri,Cigarette Use (Youth),Frequent,9.4
+2007,Missouri,Smokeless Tobacco Use (Youth),Current,7.6
+2007,Missouri,Smokeless Tobacco Use (Youth),Ever,19.7
+2007,Missouri,Smokeless Tobacco Use (Youth),Frequent,2.5
+2007,New Hampshire,Cigarette Use (Youth),Current,16.8
+2007,New Hampshire,Cigarette Use (Youth),Ever,38.8
+2007,New Hampshire,Cigarette Use (Youth),Frequent,8.1
+2007,New Hampshire,Smokeless Tobacco Use (Youth),Current,7
+2007,New Hampshire,Smokeless Tobacco Use (Youth),Ever,15.5
+2007,New Hampshire,Smokeless Tobacco Use (Youth),Frequent,2.7
+2007,North Dakota,Cigarette Use (Youth),Current,22.1
+2007,North Dakota,Cigarette Use (Youth),Ever,48.5
+2007,North Dakota,Cigarette Use (Youth),Frequent,9.6
+2007,North Dakota,Smokeless Tobacco Use (Youth),Current,10.2
+2007,North Dakota,Smokeless Tobacco Use (Youth),Ever,25.1
+2007,North Dakota,Smokeless Tobacco Use (Youth),Frequent,3.2
+2007,Oklahoma,Cigarette Use (Youth),Current,23.4
+2007,Oklahoma,Cigarette Use (Youth),Ever,54.5
+2007,Oklahoma,Cigarette Use (Youth),Frequent,9.6
+2007,Oklahoma,Smokeless Tobacco Use (Youth),Current,11.9
+2007,Oklahoma,Smokeless Tobacco Use (Youth),Ever,26.5
+2007,Oklahoma,Smokeless Tobacco Use (Youth),Frequent,4.6
+2007,Puerto Rico,Cigarette Use (Youth),Ever,30.5
+2007,South Carolina,Cigarette Use (Youth),Current,18.7
+2007,South Carolina,Cigarette Use (Youth),Ever,53.8
+2007,South Carolina,Cigarette Use (Youth),Frequent,8.1
+2007,South Carolina,Smokeless Tobacco Use (Youth),Current,11.5
+2007,South Carolina,Smokeless Tobacco Use (Youth),Ever,19.6
+2007,South Carolina,Smokeless Tobacco Use (Youth),Frequent,3.8
+2007,Utah,Cigarette Use (Youth),Current,7.9
+2007,Utah,Cigarette Use (Youth),Ever,23.1
+2007,Utah,Cigarette Use (Youth),Frequent,3
+2007,Utah,Smokeless Tobacco Use (Youth),Current,4.5
+2007,Utah,Smokeless Tobacco Use (Youth),Ever,10.3
+2007,Utah,Smokeless Tobacco Use (Youth),Frequent,1.2
+2007,West Virginia,Cigarette Use (Youth),Current,28.8
+2007,West Virginia,Cigarette Use (Youth),Ever,61.1
+2007,West Virginia,Cigarette Use (Youth),Frequent,12.5
+2007,West Virginia,Smokeless Tobacco Use (Youth),Current,15.6
+2007,West Virginia,Smokeless Tobacco Use (Youth),Ever,31
+2007,West Virginia,Smokeless Tobacco Use (Youth),Frequent,6.1
+2006,Alabama,Cigarette Use (Youth),Current,26.8
+2006,Alabama,Cigarette Use (Youth),Ever,61.6
+2006,Alabama,Cigarette Use (Youth),Frequent,11.6
+2006,Alabama,Smokeless Tobacco Use (Youth),Current,12.2
+2006,Alabama,Smokeless Tobacco Use (Youth),Ever,25.1
+2006,Alabama,Smokeless Tobacco Use (Youth),Frequent,5.4
+2006,Illinois,Cigarette Use (Youth),Current,21.7
+2006,Illinois,Cigarette Use (Youth),Ever,49.9
+2006,Illinois,Cigarette Use (Youth),Frequent,7.1
+2006,Illinois,Smokeless Tobacco Use (Youth),Current,3.7
+2006,Illinois,Smokeless Tobacco Use (Youth),Ever,12.6
+2006,Illinois,Smokeless Tobacco Use (Youth),Frequent,0.4
+2006,Indiana,Cigarette Use (Youth),Current,23.2
+2006,Indiana,Cigarette Use (Youth),Ever,51.6
+2006,Indiana,Cigarette Use (Youth),Frequent,11.7
+2006,Indiana,Smokeless Tobacco Use (Youth),Current,7.9
+2006,Indiana,Smokeless Tobacco Use (Youth),Ever,16.2
+2006,Indiana,Smokeless Tobacco Use (Youth),Frequent,3.1
+2006,Iowa,Cigarette Use (Youth),Current,22.5
+2006,Iowa,Cigarette Use (Youth),Ever,48.1
+2006,Iowa,Cigarette Use (Youth),Frequent,11.4
+2006,Iowa,Smokeless Tobacco Use (Youth),Current,8.7
+2006,Iowa,Smokeless Tobacco Use (Youth),Ever,21.5
+2006,Iowa,Smokeless Tobacco Use (Youth),Frequent,2.3
+2006,Kentucky,Cigarette Use (Youth),Current,24.5
+2006,Kentucky,Cigarette Use (Youth),Ever,57.5
+2006,Kentucky,Cigarette Use (Youth),Frequent,13
+2006,Kentucky,Smokeless Tobacco Use (Youth),Current,13.5
+2006,Kentucky,Smokeless Tobacco Use (Youth),Ever,30.8
+2006,Kentucky,Smokeless Tobacco Use (Youth),Frequent,5.6
+2006,Mississippi,Cigarette Use (Youth),Current,18.7
+2006,Mississippi,Cigarette Use (Youth),Ever,61.2
+2006,Mississippi,Cigarette Use (Youth),Frequent,7.6
+2006,Mississippi,Smokeless Tobacco Use (Youth),Current,9.7
+2006,Mississippi,Smokeless Tobacco Use (Youth),Ever,19.1
+2006,Mississippi,Smokeless Tobacco Use (Youth),Frequent,2.8
+2006,Nebraska,Cigarette Use (Youth),Current,19.7
+2006,Nebraska,Cigarette Use (Youth),Ever,49
+2006,Nebraska,Cigarette Use (Youth),Frequent,8.5
+2006,Nebraska,Smokeless Tobacco Use (Youth),Current,9
+2006,Nebraska,Smokeless Tobacco Use (Youth),Ever,22.7
+2006,Nebraska,Smokeless Tobacco Use (Youth),Frequent,3.1
+2006,New Jersey,Cigarette Use (Youth),Current,15.8
+2006,New Jersey,Cigarette Use (Youth),Ever,41.1
+2006,New Jersey,Cigarette Use (Youth),Frequent,6.6
+2006,New Jersey,Smokeless Tobacco Use (Youth),Current,6
+2006,New Jersey,Smokeless Tobacco Use (Youth),Ever,10.6
+2006,New Jersey,Smokeless Tobacco Use (Youth),Frequent,1.1
+2006,Pennsylvania,Cigarette Use (Youth),Current,17.5
+2006,Pennsylvania,Cigarette Use (Youth),Ever,41.9
+2006,Pennsylvania,Cigarette Use (Youth),Frequent,7.6
+2006,Pennsylvania,Smokeless Tobacco Use (Youth),Current,5.8
+2006,Pennsylvania,Smokeless Tobacco Use (Youth),Ever,15
+2006,Pennsylvania,Smokeless Tobacco Use (Youth),Frequent,1.7
+2006,South Carolina,Cigarette Use (Youth),Current,19.1
+2006,South Carolina,Cigarette Use (Youth),Ever,53.9
+2006,South Carolina,Cigarette Use (Youth),Frequent,8.5
+2006,South Carolina,Smokeless Tobacco Use (Youth),Current,10.9
+2006,South Carolina,Smokeless Tobacco Use (Youth),Ever,22.2
+2006,South Carolina,Smokeless Tobacco Use (Youth),Frequent,3.8
+2006,Wisconsin,Cigarette Use (Youth),Current,19.9
+2006,Wisconsin,Cigarette Use (Youth),Ever,47.9
+2006,Wisconsin,Cigarette Use (Youth),Frequent,8.8
+2006,Wisconsin,Smokeless Tobacco Use (Youth),Current,7.4
+2006,Wisconsin,Smokeless Tobacco Use (Youth),Ever,19.8
+2006,Wisconsin,Smokeless Tobacco Use (Youth),Frequent,2.4
+2005,Arizona,Cigarette Use (Youth),Current,18.4
+2005,Arizona,Cigarette Use (Youth),Ever,50.3
+2005,Arizona,Cigarette Use (Youth),Frequent,5.3
+2005,Arkansas,Cigarette Use (Youth),Current,26.3
+2005,Arkansas,Cigarette Use (Youth),Ever,62.5
+2005,Arkansas,Cigarette Use (Youth),Frequent,12.6
+2005,Arkansas,Smokeless Tobacco Use (Youth),Current,11.6
+2005,Arkansas,Smokeless Tobacco Use (Youth),Ever,26.8
+2005,Arkansas,Smokeless Tobacco Use (Youth),Frequent,3.8
+2005,Connecticut,Cigarette Use (Youth),Current,17
+2005,Connecticut,Cigarette Use (Youth),Ever,45.5
+2005,Connecticut,Cigarette Use (Youth),Frequent,7.2
+2005,Connecticut,Smokeless Tobacco Use (Youth),Current,4.4
+2005,Connecticut,Smokeless Tobacco Use (Youth),Ever,13.1
+2005,Connecticut,Smokeless Tobacco Use (Youth),Frequent,1
+2005,Georgia,Cigarette Use (Youth),Current,19.4
+2005,Georgia,Cigarette Use (Youth),Ever,52.5
+2005,Georgia,Cigarette Use (Youth),Frequent,9.1
+2005,Georgia,Smokeless Tobacco Use (Youth),Current,7.1
+2005,Georgia,Smokeless Tobacco Use (Youth),Ever,18.5
+2005,Georgia,Smokeless Tobacco Use (Youth),Frequent,2
+2005,Hawaii,Cigarette Use (Youth),Current,12.6
+2005,Hawaii,Cigarette Use (Youth),Ever,43.5
+2005,Hawaii,Cigarette Use (Youth),Frequent,3.9
+2005,Hawaii,Smokeless Tobacco Use (Youth),Current,2.1
+2005,Hawaii,Smokeless Tobacco Use (Youth),Ever,10.1
+2005,Hawaii,Smokeless Tobacco Use (Youth),Frequent,0.5
+2005,Illinois,Cigarette Use (Youth),Current,24.8
+2005,Illinois,Cigarette Use (Youth),Ever,58.4
+2005,Illinois,Cigarette Use (Youth),Frequent,10.8
+2005,Illinois,Smokeless Tobacco Use (Youth),Current,7.6
+2005,Illinois,Smokeless Tobacco Use (Youth),Ever,16.6
+2005,Illinois,Smokeless Tobacco Use (Youth),Frequent,2.1
+2005,Missouri,Cigarette Use (Youth),Current,23.7
+2005,Missouri,Cigarette Use (Youth),Ever,54.5
+2005,Missouri,Cigarette Use (Youth),Frequent,12.5
+2005,Missouri,Smokeless Tobacco Use (Youth),Current,7.1
+2005,Missouri,Smokeless Tobacco Use (Youth),Ever,19.1
+2005,Missouri,Smokeless Tobacco Use (Youth),Frequent,2.7
+2005,North Carolina,Cigarette Use (Youth),Current,20.3
+2005,North Carolina,Cigarette Use (Youth),Ever,54.3
+2005,North Carolina,Cigarette Use (Youth),Frequent,9
+2005,North Carolina,Smokeless Tobacco Use (Youth),Current,9.2
+2005,North Carolina,Smokeless Tobacco Use (Youth),Ever,19.9
+2005,North Carolina,Smokeless Tobacco Use (Youth),Frequent,3.2
+2005,North Dakota,Cigarette Use (Youth),Current,27.5
+2005,North Dakota,Cigarette Use (Youth),Ever,55
+2005,North Dakota,Cigarette Use (Youth),Frequent,13.7
+2005,North Dakota,Smokeless Tobacco Use (Youth),Current,12.7
+2005,North Dakota,Smokeless Tobacco Use (Youth),Ever,29.4
+2005,North Dakota,Smokeless Tobacco Use (Youth),Frequent,4.5
+2005,Oklahoma,Cigarette Use (Youth),Current,22.8
+2005,Oklahoma,Cigarette Use (Youth),Ever,56.9
+2005,Oklahoma,Cigarette Use (Youth),Frequent,10
+2005,Oklahoma,Smokeless Tobacco Use (Youth),Current,12.1
+2005,Oklahoma,Smokeless Tobacco Use (Youth),Ever,25.3
+2005,Oklahoma,Smokeless Tobacco Use (Youth),Frequent,5.8
+2005,Rhode Island,Cigarette Use (Youth),Current,18.5
+2005,Rhode Island,Cigarette Use (Youth),Ever,48.5
+2005,Rhode Island,Cigarette Use (Youth),Frequent,8.4
+2005,Rhode Island,Smokeless Tobacco Use (Youth),Current,3.4
+2005,Rhode Island,Smokeless Tobacco Use (Youth),Ever,12.5
+2005,Rhode Island,Smokeless Tobacco Use (Youth),Frequent,0.7
+2005,South Carolina,Cigarette Use (Youth),Current,24.4
+2005,South Carolina,Cigarette Use (Youth),Ever,63.3
+2005,South Carolina,Cigarette Use (Youth),Frequent,8.9
+2005,South Carolina,Smokeless Tobacco Use (Youth),Current,8.6
+2005,South Carolina,Smokeless Tobacco Use (Youth),Ever,21.2
+2005,South Carolina,Smokeless Tobacco Use (Youth),Frequent,1.9
+2005,Utah,Cigarette Use (Youth),Current,10.3
+2005,Utah,Cigarette Use (Youth),Ever,28
+2005,Utah,Cigarette Use (Youth),Frequent,4
+2005,Utah,Smokeless Tobacco Use (Youth),Current,4.7
+2005,Utah,Smokeless Tobacco Use (Youth),Ever,12.6
+2005,Utah,Smokeless Tobacco Use (Youth),Frequent,1.5
+2005,West Virginia,Cigarette Use (Youth),Current,27.8
+2005,West Virginia,Cigarette Use (Youth),Ever,63.3
+2005,West Virginia,Cigarette Use (Youth),Frequent,14.8
+2005,West Virginia,Smokeless Tobacco Use (Youth),Current,12.6
+2005,West Virginia,Smokeless Tobacco Use (Youth),Ever,27.3
+2005,West Virginia,Smokeless Tobacco Use (Youth),Frequent,5.9
+2004,Alabama,Cigarette Use (Youth),Current,24
+2004,Alabama,Cigarette Use (Youth),Ever,61.3
+2004,Alabama,Cigarette Use (Youth),Frequent,9.1
+2004,Alabama,Smokeless Tobacco Use (Youth),Current,12
+2004,Alabama,Smokeless Tobacco Use (Youth),Ever,26.8
+2004,Alabama,Smokeless Tobacco Use (Youth),Frequent,5
+2004,Delaware,Cigarette Use (Youth),Current,22.4
+2004,Delaware,Cigarette Use (Youth),Ever,57.8
+2004,Delaware,Cigarette Use (Youth),Frequent,9.4
+2004,Delaware,Smokeless Tobacco Use (Youth),Current,4.6
+2004,Delaware,Smokeless Tobacco Use (Youth),Ever,9.4
+2004,Delaware,Smokeless Tobacco Use (Youth),Frequent,1.2
+2004,Indiana,Cigarette Use (Youth),Current,21.3
+2004,Indiana,Cigarette Use (Youth),Ever,52.7
+2004,Indiana,Cigarette Use (Youth),Frequent,10.9
+2004,Indiana,Smokeless Tobacco Use (Youth),Current,7.3
+2004,Indiana,Smokeless Tobacco Use (Youth),Ever,17.4
+2004,Indiana,Smokeless Tobacco Use (Youth),Frequent,2.2
+2004,Iowa,Cigarette Use (Youth),Current,19.5
+2004,Iowa,Cigarette Use (Youth),Ever,47.2
+2004,Iowa,Cigarette Use (Youth),Frequent,7.6
+2004,Iowa,Smokeless Tobacco Use (Youth),Current,7.5
+2004,Iowa,Smokeless Tobacco Use (Youth),Ever,20.3
+2004,Iowa,Smokeless Tobacco Use (Youth),Frequent,2.2
+2004,Kentucky,Cigarette Use (Youth),Current,27.9
+2004,Kentucky,Cigarette Use (Youth),Ever,63.4
+2004,Kentucky,Cigarette Use (Youth),Frequent,15.3
+2004,Kentucky,Smokeless Tobacco Use (Youth),Current,14.7
+2004,Kentucky,Smokeless Tobacco Use (Youth),Ever,31.3
+2004,Kentucky,Smokeless Tobacco Use (Youth),Frequent,6.4
+2004,Mississippi,Cigarette Use (Youth),Current,22.1
+2004,Mississippi,Cigarette Use (Youth),Ever,59.4
+2004,Mississippi,Cigarette Use (Youth),Frequent,9.4
+2004,Mississippi,Smokeless Tobacco Use (Youth),Current,11.8
+2004,Mississippi,Smokeless Tobacco Use (Youth),Ever,22.6
+2004,Mississippi,Smokeless Tobacco Use (Youth),Frequent,4.2
+2004,New Hampshire,Cigarette Use (Youth),Current,19.1
+2004,New Hampshire,Cigarette Use (Youth),Ever,44.7
+2004,New Hampshire,Cigarette Use (Youth),Frequent,8.8
+2004,New Hampshire,Smokeless Tobacco Use (Youth),Current,6.6
+2004,New Hampshire,Smokeless Tobacco Use (Youth),Ever,10.8
+2004,New Hampshire,Smokeless Tobacco Use (Youth),Frequent,1.5
+2004,New Jersey,Cigarette Use (Youth),Current,17.3
+2004,New Jersey,Cigarette Use (Youth),Ever,46.2
+2004,New Jersey,Cigarette Use (Youth),Frequent,7
+2004,New Jersey,Smokeless Tobacco Use (Youth),Current,7
+2004,New Jersey,Smokeless Tobacco Use (Youth),Ever,10.8
+2004,New Jersey,Smokeless Tobacco Use (Youth),Frequent,0.7
+2004,North Carolina,Cigarette Use (Youth),Current,27.3
+2004,North Carolina,Cigarette Use (Youth),Ever,59.6
+2004,North Carolina,Cigarette Use (Youth),Frequent,12.7
+2004,North Carolina,Smokeless Tobacco Use (Youth),Current,9.5
+2004,North Carolina,Smokeless Tobacco Use (Youth),Ever,21.4
+2004,North Carolina,Smokeless Tobacco Use (Youth),Frequent,3.6
+2004,Vermont,Cigarette Use (Youth),Current,22.4
+2004,Vermont,Cigarette Use (Youth),Ever,51.6
+2004,Vermont,Cigarette Use (Youth),Frequent,12.6
+2004,Vermont,Smokeless Tobacco Use (Youth),Current,6.3
+2004,Vermont,Smokeless Tobacco Use (Youth),Ever,17.7
+2004,Vermont,Smokeless Tobacco Use (Youth),Frequent,1.7
+2004,Virgin Islands,Cigarette Use (Youth),Current,3.1
+2004,Virgin Islands,Cigarette Use (Youth),Ever,30.7
+2004,Virgin Islands,Cigarette Use (Youth),Frequent,0.1
+2004,Virgin Islands,Smokeless Tobacco Use (Youth),Current,0.8
+2004,Virgin Islands,Smokeless Tobacco Use (Youth),Ever,7.3
+2004,Virgin Islands,Smokeless Tobacco Use (Youth),Frequent,0.2
+2004,Wisconsin,Cigarette Use (Youth),Current,20.9
+2004,Wisconsin,Cigarette Use (Youth),Ever,52.2
+2004,Wisconsin,Cigarette Use (Youth),Frequent,9.8
+2004,Wisconsin,Smokeless Tobacco Use (Youth),Current,7.1
+2004,Wisconsin,Smokeless Tobacco Use (Youth),Ever,17.9
+2004,Wisconsin,Smokeless Tobacco Use (Youth),Frequent,2.4
+2003,Arizona,Cigarette Use (Youth),Current,17.7
+2003,Arizona,Cigarette Use (Youth),Ever,54.8
+2003,Arizona,Cigarette Use (Youth),Frequent,5.8
+2003,Arizona,Smokeless Tobacco Use (Youth),Current,4.3
+2003,Arizona,Smokeless Tobacco Use (Youth),Ever,15.1
+2003,Arizona,Smokeless Tobacco Use (Youth),Frequent,0.7
+2003,California,Cigarette Use (Youth),Current,13.2
+2003,California,Cigarette Use (Youth),Ever,43.9
+2003,California,Cigarette Use (Youth),Frequent,2.8
+2003,California,Smokeless Tobacco Use (Youth),Current,3.1
+2003,California,Smokeless Tobacco Use (Youth),Ever,9.3
+2003,California,Smokeless Tobacco Use (Youth),Frequent,0.6
+2003,Michigan,Cigarette Use (Youth),Current,28.3
+2003,Michigan,Cigarette Use (Youth),Ever,58.4
+2003,Michigan,Cigarette Use (Youth),Frequent,13.9
+2003,Michigan,Smokeless Tobacco Use (Youth),Current,8.5
+2003,Michigan,Smokeless Tobacco Use (Youth),Ever,18.9
+2003,Michigan,Smokeless Tobacco Use (Youth),Frequent,1.9
+2003,Mississippi,Cigarette Use (Youth),Current,23.4
+2003,Mississippi,Cigarette Use (Youth),Ever,60.7
+2003,Mississippi,Cigarette Use (Youth),Frequent,10.1
+2003,Mississippi,Smokeless Tobacco Use (Youth),Current,10.4
+2003,Mississippi,Smokeless Tobacco Use (Youth),Ever,22.2
+2003,Mississippi,Smokeless Tobacco Use (Youth),Frequent,3.9
+2003,Missouri,Cigarette Use (Youth),Current,24.5
+2003,Missouri,Cigarette Use (Youth),Ever,61.5
+2003,Missouri,Cigarette Use (Youth),Frequent,13.5
+2003,Missouri,Smokeless Tobacco Use (Youth),Current,6
+2003,Missouri,Smokeless Tobacco Use (Youth),Ever,20.3
+2003,Missouri,Smokeless Tobacco Use (Youth),Frequent,1
+2003,North Dakota,Cigarette Use (Youth),Current,26.3
+2003,North Dakota,Cigarette Use (Youth),Ever,58.4
+2003,North Dakota,Cigarette Use (Youth),Frequent,11.5
+2003,North Dakota,Smokeless Tobacco Use (Youth),Current,10
+2003,North Dakota,Smokeless Tobacco Use (Youth),Ever,27
+2003,North Dakota,Smokeless Tobacco Use (Youth),Frequent,3.1
+2003,Rhode Island,Cigarette Use (Youth),Current,17.5
+2003,Rhode Island,Cigarette Use (Youth),Ever,50.1
+2003,Rhode Island,Cigarette Use (Youth),Frequent,8.4
+2003,Rhode Island,Smokeless Tobacco Use (Youth),Current,3.6
+2003,Rhode Island,Smokeless Tobacco Use (Youth),Ever,11.6
+2003,Rhode Island,Smokeless Tobacco Use (Youth),Frequent,0.8
+2003,South Dakota,Cigarette Use (Youth),Current,27.1
+2003,South Dakota,Cigarette Use (Youth),Ever,57.9
+2003,South Dakota,Cigarette Use (Youth),Frequent,12.5
+2003,South Dakota,Smokeless Tobacco Use (Youth),Current,12.4
+2003,South Dakota,Smokeless Tobacco Use (Youth),Ever,29.3
+2003,South Dakota,Smokeless Tobacco Use (Youth),Frequent,4.1
+2003,Utah,Cigarette Use (Youth),Current,8.8
+2003,Utah,Cigarette Use (Youth),Ever,28.9
+2003,Utah,Cigarette Use (Youth),Frequent,3.2
+2003,Utah,Smokeless Tobacco Use (Youth),Current,4.1
+2003,Utah,Smokeless Tobacco Use (Youth),Ever,10
+2003,Utah,Smokeless Tobacco Use (Youth),Frequent,1.4
